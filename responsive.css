@@ -388,7 +388,6 @@ Large devices (desktops, 992px and up)
         gap: 80px;
     }
     .card-info{
-        width: 40%;
         text-align: center;
     }
     .img1{
@@ -423,6 +422,10 @@ Large devices (desktops, 992px and up)
       display: grid;
       grid-template-columns: repeat(1, 1fr);
       gap: 20px;
+      align-items: center;
+    }
+    .gap3{
+        margin-left: 0px;
     }
     .copy-right{
         font-size: 12px;
