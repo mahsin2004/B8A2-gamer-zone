@@ -361,8 +361,8 @@ Large devices (desktops, 992px and up)
         margin-left: -130px;
     }
     .banner{
-        width: 400px;
-        height: 400px;
+        width: 350px;
+        height: 350px;
     }
     .video{
         display: grid;
@@ -392,16 +392,16 @@ Large devices (desktops, 992px and up)
         text-align: center;
     }
     .img1{
-        margin-left: 120px;
-        width: 300px;
-        height: 300px;
+        margin-left: 50px;
+        width: 280px;
+        height: 280px;
     }
     .img2 {
         position: absolute;
-        margin-top: 190px;
-        margin-left: -380px;
-        width: 150px;
-        height: 200px;
+        margin-top: 165px;
+        margin-left: -330px;
+        width: 100px;
+        height: 150px;
     }
     .explore-container{
         grid-template-columns: repeat(1, 1fr);
